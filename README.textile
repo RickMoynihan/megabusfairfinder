@@ -1,0 +1,10 @@
+h1. Megabus Fair Finder
+
+A simple Ruby script to find cheap bus tickets on megabus.com.
+Currently hard coded for the only route I need (Dundee <--> Manchester).
+
+It requires the followin gem dependencies:
+
+* rubygems
+* hpricot
+
